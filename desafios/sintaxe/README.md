@@ -35,5 +35,9 @@ Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o
 
 Os campos em [ ] devem ser alterados pelas informações que forem inseridas pelos usuários.
 
+###### Desafio finalizado por completo
+Resultado no console:
+![image](https://github.com/user-attachments/assets/c8d9ed99-51dc-44af-9875-5f3de5dd2e37)
+
 
 
