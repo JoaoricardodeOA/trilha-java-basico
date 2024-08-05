@@ -37,7 +37,8 @@ Os campos em [ ] devem ser alterados pelas informações que forem inseridas pel
 
 ###### Desafio finalizado por completo
 Resultado no console:
-![image](https://github.com/user-attachments/assets/c8d9ed99-51dc-44af-9875-5f3de5dd2e37)
+![image](https://github.com/user-attachments/assets/148ce7a4-085a-45f5-b587-a5b0cc2503b5)
+
 
 
 
